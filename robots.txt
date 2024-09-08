@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://vuzoceog.github.io/sitemap/sitemap.txt
